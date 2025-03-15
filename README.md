@@ -36,8 +36,3 @@ To run the code, ensure you have the following Python packages installed:
 - `PIL`
 - `scipy`
 
-Install the required packages using:
-
-```bash
-pip install -r requirements.txt
-
